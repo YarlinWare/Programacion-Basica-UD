@@ -1,0 +1,5 @@
+Proceso Cuadrado_Cubo
+	Para i<-0 Hasta 100 Con Paso 1 Hacer
+		Escribir "Original: ",i,"    Cuadrado: ",(i*i),"    Cubo: ",(i*i*i),"    "
+	Fin Para	
+FinProceso
